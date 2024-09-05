@@ -38,14 +38,18 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
 }
 
 .footer__social-link {
   color: #fff;
+  text-decoration: none;
 }
 
 .footer__social-link:hover {
   color: #c1c1c1;
+  transition: 2ms;
+  opacity: 70%;
 }
 
 .footer__copyright {

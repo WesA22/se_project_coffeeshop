@@ -26,8 +26,11 @@
   color: black;
   list-style-type: none;
   text-decoration: none;
+  opacity: 100%;
 }
 
 .nav__link:hover {
   color: #2f80ed;
+  transition: 2ms;
+  opacity: 70%;
 }
