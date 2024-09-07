@@ -19,6 +19,7 @@
 }
 
 .about__title {
+  text-align: left;
   margin: 80px 0 0 100px;
   max-width: 251px;
   font-family: "Inter", Arial, sans-serif;
@@ -30,6 +31,7 @@
 }
 
 .about__content {
+  text-align: right;
   max-width: 660px;
   list-style-type: none;
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -39,6 +41,7 @@
   gap: 80px;
 }
 .about__paragraph {
+  margin-top: 0;
   margin-bottom: 20px;
 }
 

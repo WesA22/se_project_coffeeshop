@@ -7,7 +7,7 @@
   position: relative;
   left: -50px;
   width: 105px;
-  height: 30px;
+  height: 39px;
 }
 
 .nav__links {
@@ -30,7 +30,7 @@
 }
 
 .nav__link:hover {
-  color: #2f80ed;
+  color: brown;
   transition: 2ms;
   opacity: 70%;
 }

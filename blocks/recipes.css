@@ -30,6 +30,11 @@
   gap: 40px;
 }
 
+.recipes__iframe {
+  width: 560px;
+  height: 315px;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
@@ -37,5 +42,5 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin: 0;
+  margin: 24px 0;
 }

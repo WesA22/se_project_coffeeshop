@@ -16,7 +16,7 @@
 
 .footer__social-heading {
   margin-bottom: 20px;
-  text-align: center;
+  text-align: left;
   font-family: "Inter", Arial, sans-serif;
   font-weight: bold;
   font-size: 16px;
@@ -26,7 +26,8 @@
 
 .footer__list {
   margin: 0;
-  padding: 0 80px 0;
+  padding-right: 80px;
+  list-style-type: none;
 }
 
 .footer__list-item {
@@ -53,7 +54,7 @@
 }
 
 .footer__copyright {
-  margin: 80px 60px;
+  margin: 108px 80px 60px;
   padding: 0 0 60px;
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
