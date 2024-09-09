@@ -2,6 +2,9 @@
   color: #ffffff;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  background-image: url(../images/background_recipes.svg);
+  background-size: cover;
+  background-position: center;
 }
 
 .recipes__title {
@@ -33,6 +36,7 @@
 .recipes__iframe {
   width: 560px;
   height: 315px;
+  border-style: none;
 }
 
 .recipes__video-caption {
@@ -42,5 +46,5 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin: 24px 0;
+  margin: 24px 0 0;
 }

@@ -16,6 +16,7 @@
   color: #fff;
   position: relative;
   overflow: hidden;
+  justify-content: baseline;
 }
 
 .about__title {
@@ -31,7 +32,6 @@
 }
 
 .about__content {
-  text-align: right;
   max-width: 660px;
   list-style-type: none;
   font-family: "Noto Serif", "Times New Roman", serif;
