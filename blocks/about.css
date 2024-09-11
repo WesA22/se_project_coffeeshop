@@ -12,6 +12,7 @@
 }
 .about {
   display: flex;
+  justify-content: space-between;
   background-color: #0a2850;
   color: #fff;
   position: relative;
