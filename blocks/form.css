@@ -55,8 +55,13 @@
   width: 20px;
   height: 20px;
 }
-.form__label_type_checkbox {
-  gap: 12px;
 
+.form__label {
+  font-weight: 500;
+}
+.form__label_type_checkbox {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
   color: #000;
 }
